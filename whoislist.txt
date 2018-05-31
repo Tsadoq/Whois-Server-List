@@ -162,7 +162,3 @@ wf,whois.nic.wf
 ws,whois.worldsite.ws
 yt,whois.nic.yt
 yu,whois.ripe.net
-
-
-
-
